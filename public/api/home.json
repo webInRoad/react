@@ -1,0 +1,42 @@
+{
+	"success": true,
+	"data": {
+		"topicList": [{
+			"id": 1,
+			"title": "社会热点",
+			"imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 2,
+			"title": "手手绘",
+			"imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}],
+		"articleList": [{
+			"id": 1,
+			"title": "一天，一年 ，一辈子，流年就在弹指间",
+			"desc": "一天很短， 短暂到未拥抱清晨，就要挥手迎接黑夜， 一天天组成一年年。 日出而作，日落而归，耳闻鸟声晨起，眼见夕阳余辉。 一年很短， 短暂到未感受...",
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/15008282-328c49122649d4bb.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 2,
+			"title": "一天，一年 ，一辈子，流年就在弹指间",
+			"desc": "一天很短， 短暂到未拥抱清晨，就要挥手迎接黑夜， 一天天组成一年年。 日出而作，日落而归，耳闻鸟声晨起，眼见夕阳余辉。 一年很短， 短暂到未感受...",
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/15008282-328c49122649d4bb.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 3,
+			"title": "一天，一年 ，一辈子，流年就在弹指间着",
+			"desc": "一天很短， 短暂到未拥抱清晨，就要挥手迎接黑夜， 一天天组成一年年。 日出而作，日落而归，耳闻鸟声晨起，眼见夕阳余辉。 一年很短， 短暂到未感受...",
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/15008282-328c49122649d4bb.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 4,
+			"title": "一天，一年 ，一辈子，流年就在弹指间着",
+			"desc": "一天很短， 短暂到未拥抱清晨，就要挥手迎接黑夜， 一天天组成一年年。 日出而作，日落而归，耳闻鸟声晨起，眼见夕阳余辉。 一年很短， 短暂到未感受...",
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/15008282-328c49122649d4bb.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+		}, {
+			"id": 2,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+		}]
+	}
+}
